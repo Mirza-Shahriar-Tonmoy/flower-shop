@@ -117,3 +117,8 @@ body {
 .instagram-image{
     margin-right: 24px;
 }
+
+/* Latest deals styles */
+.latest-deals-container{
+    width: 1440px;
+}
