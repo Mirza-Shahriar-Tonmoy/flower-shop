@@ -45,7 +45,28 @@ body {
 }
 
 .banner-container {
-  display: flex; 
+  display: flex;
   justify-content: center;
   align-items: center;
+}
+
+/* main styles */
+/* hot-deal section styles */
+
+.hot-deal-title-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hot-deal-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+.hot-deal-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: justify;
+  font-size: 18px;
+  font-weight: 400;
 }
