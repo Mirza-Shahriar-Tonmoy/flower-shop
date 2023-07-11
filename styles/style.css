@@ -159,6 +159,73 @@ body {
   width: 318px;
   height: 420px;
 }
+/* Flower vase styles */
+
+.flower-vase{
+  margin-top: 178px;
+  margin-bottom: 128px;
+
+}
+.flower-vase-title{
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.flower-vase-description{
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.flower-vase-image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+}
+
+.vase-1-image {
+  background-color: #176B87;
+  width: 460px;
+  height: 538px;
+  border-radius: 300px 0 0 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 24px;
+}
+.vase-2-image {
+  background-color: #64CCC5;
+  width: 460px;
+  height: 538px;
+  border-radius: 0 0 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 24px;
+}
+.vase-3-image {
+  background-color: #DAFFFB;
+  width: 460px;
+  height: 538px;
+  border-radius: 0 300px 300px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 24px;
+}
+
+.vase-title {
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration-line: underline;
+  margin-top: 24px;
+}
 
 /* Instagram title styles */
 
