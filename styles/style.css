@@ -51,6 +51,15 @@ body {
 }
 
 /* main styles */
+/* Feature Flower Styles */
+
+
+.feature-flower{
+  margin-top: 178px;
+  margin-bottom: 128px;
+
+}
+
 .feature-flower-title {
   color: #272727;
   text-align: center;
