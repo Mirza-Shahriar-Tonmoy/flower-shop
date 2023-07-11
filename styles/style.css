@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Lato", sans-serif;
+  overflow-x: hidden;
 }
 .btn-primary {
   border-radius: 8px;
@@ -224,12 +225,15 @@ body {
 .subscribe {
   text-align: center;
   margin-top: 48px;
+  display: flex;
+  align-items: center;
 }
 .email {
   width: 700px;
   height: 64px;
   padding-left: 22px;
   border: 0;
+  margin-right: 16px;
 }
 
 input::placeholder {
